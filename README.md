@@ -8,6 +8,7 @@ A docker container that runs in a loop and constantly tries to rsync files from 
  * AWS_ACCESS_KEY_ID
  * AWS_SECRET_ACCESS_KEY
  * AWS_DEFAULT_REGION
+ * S3_BUCKET
  * RSYNC_SERVER
  * RSYNC_USERNAME
  * RSYNC_PASSWORD
